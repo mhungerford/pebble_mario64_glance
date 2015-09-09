@@ -1,0 +1,51 @@
+{
+  "sdkVersion": "3", 
+  "uuid": "774700a9-e3e5-4fc5-a937-42ee15ec25a9",
+  "appKeys": {
+    "dummy": 0
+  }, 
+  "companyName": "Matthew Hungerford", 
+  "versionLabel": "1.0", 
+  "targetPlatforms": [
+    "basalt", "chalk"
+  ], 
+  "longName": "Mario64 - Glance", 
+  "versionCode": 1, 
+  "shortName": "Mario64 - Glance", 
+  "watchapp": {
+    "watchface": true
+  }, 
+  "resources": {
+    "media": [
+      {
+        "type": "font", 
+        "characterRegex": "[ :0-9]", 
+        "name": "FONT_BOXY_TEXT_30", 
+        "file": "Boxy_Text.ttf"
+      }, 
+      {
+        "type": "font", 
+        "characterRegex": "[ :0-9]", 
+        "name": "FONT_BOXY_OUTLINE_30", 
+        "file": "Boxy_Outline.ttf"
+      }, 
+      {
+        "type": "font", 
+        "characterRegex": "[ /0-9MTWFSadehinortu]", 
+        "name": "FONT_BOXY_TEXT_18", 
+        "file": "Boxy_Text.ttf"
+      }, 
+      {
+        "type": "font", 
+        "characterRegex": "[ /0-9MTWFSadehinortu]", 
+        "name": "FONT_BOXY_OUTLINE_18", 
+        "file": "Boxy_Outline.ttf"
+      }, 
+      {
+        "type": "raw", 
+        "name": "IMAGE_1", 
+        "file": "mario_head.png"
+      }
+    ]
+  }
+}
